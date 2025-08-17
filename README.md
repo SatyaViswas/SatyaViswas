@@ -44,6 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SatyaViswas/SatyaViswas/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/SatyaViswas/SatyaViswas/output/github-contribution-grid-snake.svg)
+
 
 ###
